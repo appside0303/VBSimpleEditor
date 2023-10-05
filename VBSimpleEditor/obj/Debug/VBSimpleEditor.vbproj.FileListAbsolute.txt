@@ -1,0 +1,19 @@
+C:\Users\user\Documents\Visual Studio 2008\Projects\VBSimpleEditor\VBSimpleEditor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2008\Projects\VBSimpleEditor\VBSimpleEditor\obj\Debug\VBSimpleEditor.Resources.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\VBSimpleEditor\VBSimpleEditor\obj\Debug\VBSimpleEditor.vbproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2008\Projects\VBSimpleEditor\VBSimpleEditor\bin\Debug\VBSimpleEditor.exe
+C:\Users\user\Documents\Visual Studio 2008\Projects\VBSimpleEditor\VBSimpleEditor\bin\Debug\VBSimpleEditor.pdb
+C:\Users\user\Documents\Visual Studio 2008\Projects\VBSimpleEditor\VBSimpleEditor\bin\Debug\VBSimpleEditor.xml
+C:\Users\user\Documents\Visual Studio 2008\Projects\VBSimpleEditor\VBSimpleEditor\obj\Debug\VBSimpleEditor.exe
+C:\Users\user\Documents\Visual Studio 2008\Projects\VBSimpleEditor\VBSimpleEditor\obj\Debug\VBSimpleEditor.xml
+C:\Users\user\Documents\Visual Studio 2008\Projects\VBSimpleEditor\VBSimpleEditor\obj\Debug\VBSimpleEditor.pdb
+C:\Users\user\Documents\Visual Studio 2008\Projects\VBSimpleEditor\VBSimpleEditor\obj\Debug\VBSimpleEditor.frmMain.resources
+C:\Users\user\source\repos\VBSimpleEditor\VBSimpleEditor\obj\Debug\VBSimpleEditor.exe
+C:\Users\user\source\repos\VBSimpleEditor\VBSimpleEditor\obj\Debug\VBSimpleEditor.xml
+C:\Users\user\source\repos\VBSimpleEditor\VBSimpleEditor\obj\Debug\VBSimpleEditor.pdb
+C:\Users\user\source\repos\VBSimpleEditor\VBSimpleEditor\obj\Debug\VBSimpleEditor.frmMain.resources
+C:\Users\user\source\repos\VBSimpleEditor\VBSimpleEditor\obj\Debug\VBSimpleEditor.Resources.resources
+C:\Users\user\source\repos\VBSimpleEditor\VBSimpleEditor\obj\Debug\VBSimpleEditor.vbproj.GenerateResource.Cache
+C:\Users\user\source\repos\VBSimpleEditor\VBSimpleEditor\bin\Debug\VBSimpleEditor.exe
+C:\Users\user\source\repos\VBSimpleEditor\VBSimpleEditor\bin\Debug\VBSimpleEditor.pdb
+C:\Users\user\source\repos\VBSimpleEditor\VBSimpleEditor\bin\Debug\VBSimpleEditor.xml
